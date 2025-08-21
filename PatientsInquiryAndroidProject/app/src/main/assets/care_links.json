@@ -1,0 +1,32 @@
+{
+  "emergency": [
+    {
+      "label": "Call 911 (U.S.)",
+      "url": "tel:911"
+    },
+    {
+      "label": "988 Suicide & Crisis Lifeline",
+      "url": "https://988lifeline.org"
+    }
+  ],
+  "trusted_health": [
+    {
+      "label": "Mayo Clinic \u2013 Symptoms A\u2013Z",
+      "url": "https://www.mayoclinic.org/symptoms"
+    },
+    {
+      "label": "NIH MedlinePlus \u2013 Health Topics",
+      "url": "https://medlineplus.gov/healthtopics.html"
+    }
+  ],
+  "find_care": [
+    {
+      "label": "Find a Clinic \u2013 HRSA",
+      "url": "https://findahealthcenter.hrsa.gov/"
+    },
+    {
+      "label": "Zocdoc \u2013 Book doctors",
+      "url": "https://www.zocdoc.com/"
+    }
+  ]
+}
